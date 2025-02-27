@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/gimbal.uf2'
+elf = 'build/gimbal.elf'
